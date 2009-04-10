@@ -1,3 +1,4 @@
 #name : flash[: ... ] = " ... "
+#group : controller
 # --
 flash[:${notice}] = "${Text here...}"

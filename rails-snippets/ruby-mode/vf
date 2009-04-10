@@ -1,3 +1,4 @@
 #name : validates_format_of : ... , :with => / ... /
+#group : model
 # --
 validates_format_of :${attr}, :with => /${regex}/
